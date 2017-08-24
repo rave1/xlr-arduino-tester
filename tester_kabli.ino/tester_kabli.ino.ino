@@ -121,18 +121,4 @@ digitalWrite(XLR_3_OUT, LOW);
 STATE_3_IN = digitalRead(XLR_3_IN);
 check();
 delay(1000);
-
-
-
-
-
-
-
-  
-
-
-  
- 
-
-
 }
